@@ -35,10 +35,6 @@ Amazon-Clone/
     └── other images
 
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
 ## 🎯 Learning Outcomes
 
 Through this project, I learned:
